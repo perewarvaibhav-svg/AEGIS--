@@ -1,5 +1,6 @@
 {
   "name": "my-project",
+  "description": "Risk assessment and survival AI mission control",
   "version": "0.1.0",
   "private": true,
   "scripts": {
